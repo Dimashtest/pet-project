@@ -1,0 +1,111 @@
+[
+    {
+        "name": "BRIMNES БРИМНЭС",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/bed.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 52392
+    },
+    {
+        "name": "DEKORERA ДЕКОРЕРА",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/tumba.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 292
+    },
+    {
+        "name": "FULLTALIG ФУЛЛТАЛИГ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/trash.svg",
+        "sale": 12,
+        "preprice": 763.23,
+        "price" : 39.3
+    },
+    {
+        "name": "GLASIG ГЛАСИГ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/tumba2.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 75.8
+    },
+    {
+        "name": "KINNEN КИННЕН",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/kotel.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 682.83
+    },
+    {
+        "name": "BORRBY БОРБЮ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/polki.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 79.37
+    },
+    {
+        "name": "SKURUP СКУРУП",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/stairs.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 882.33
+    },
+    {
+        "name": "MOSSRUTA МОССРУТА",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/mirror2.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 905.37
+    },
+    {
+        "name": "VINTER 2020 ВИНТЕР 2020",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/towel.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 5692.23
+    },
+    {
+        "name": "GLASIG ГЛАСИГ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/tumba2.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 2793.21
+    },
+    {
+        "name": "STABBIG СТАБИГ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/snake.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 385.34
+    },
+    {
+        "name": "PÄRLBAND ПЭРЛЬБАНД",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/towel2.svg",
+        "sale": null,
+        "preprice": null,
+        "price" : 25.82
+    }
+     
+]

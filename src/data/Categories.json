@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Диваны",
+        "img": "/sofa.svg"
+    },
+    {
+        "name": "Спальная",
+        "img": "/light.svg"},
+    {
+        "name": "Кухня",
+        "img": "/pan.svg"},
+    {
+        "name": "Для сада",
+        "img": "/gardewasher.svg"
+    },
+    {
+        "name": "Мебель",
+        "img": "/chair.svg"},
+    {
+        "name": "Гигиена",
+        "img": "/antisoap.svg"},
+    {
+        "name": "Товары для отдыха",
+        "img": "/rocket.svg"
+    },
+    {
+        "name": "Зеркала",
+        "img": "/mirror.svg"},
+    {
+        "name": "Хранение и порядок",
+        "img": "/bedsidetable.svg"
+    },
+    {
+        "name": "Кухня и бытовая тех..",
+        "img": "/oven.svg"
+    }
+]

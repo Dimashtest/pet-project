@@ -1,0 +1,38 @@
+[
+    {
+        "name": "VINTER 2020 ВИНТЕР 2020",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/warderob.svg",
+        "sale": null,
+        "preprice": 67763.23,
+        "price" : 62392.23
+    },
+    {
+        "name": "GLASIG ГЛАСИГ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/bottle.svg",
+        "sale": 12,
+        "preprice": 7763.23,
+        "price" : 2792.37
+    },
+    {
+        "name": "STABBIG СТАБИГ",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/plate.svg",
+        "sale": 12,
+        "preprice": null,
+        "price" : 392.3
+    },
+    {
+        "name": "PÄRLBAND ПЭРЛЬБАНД",
+        "door": "Шкаф платяной 3-дверный",
+        "size": "117x190 см",
+        "img": "/circle.svg",
+        "sale": 12,
+        "preprice": 63.23,
+        "price" : 55.53
+    }   
+]
