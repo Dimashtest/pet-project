@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import sales from "/Users/ШагеД/pet-project/src/data/Sales.json"
+import sales from "/Users/ШагеД/Desktop/pet/pet/pet-project/src/data/Sales.json"
 
 export default function Sales() {
     return (
@@ -14,9 +14,9 @@ export default function Sales() {
                     </p>
                 </div>
 
-                <div className="flex flex-wrap relative gap-6 p-5 text-[18px]">
+                <div className="grid grid-cols-4 gap-6 p-5 text-[18px]">
                     {sales.map((sales, index) => (
-                        <div key={index} className="flex gap-5 justify-center flex-col items-start p-6 bg-white border border-gray-200 shadow-sm rounded-[50px]">
+                        <div key={index} className="flex gap-5 justify-center flex-col items-start p-6 bg-white border border-gray-200 shadow-sm rounded-lg">
                             <img className="" src={sales.img} alt={sales.name} />
                             {sales.sale && (
                                 <p className="text-red-500 text-[16px] font-semibold">{sales.sale}%</p>
@@ -35,3 +35,5 @@ export default function Sales() {
         </>
     )
 }
+
+///Users/ШагеД/pet-project/src/data/Sales.json
